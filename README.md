@@ -4,5 +4,7 @@
 - 📫 Reach me at pratikmishra738@gmail.com ...
 - some of my works are 
    1) https://soumy17.github.io/E-Learing-Site/
-   2) 
+   2) https://soumy17.github.io/Resume/
+  
+  Please scroll down to know more about me.
 
